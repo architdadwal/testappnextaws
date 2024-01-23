@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify49fd5cca9bb34-staging-124713-authRole",
+      "UnauthRoleArn": "arn:aws:iam::519832024182:role/amplify-amplify49fd5cca9bb34-staging-124713-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::519832024182:role/amplify-amplify49fd5cca9bb34-staging-124713-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-amplify49fd5cca9bb34-staging-124713-deployment",
+      "UnauthRoleName": "amplify-amplify49fd5cca9bb34-staging-124713-unauthRole",
+      "StackName": "amplify-amplify49fd5cca9bb34-staging-124713",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:519832024182:stack/amplify-amplify49fd5cca9bb34-staging-124713/ded1a620-b6c8-11ee-838c-0a32f1f5589f",
+      "AmplifyAppId": "d2gda7h6iryfzp"
+    },
+    "categories": {
+      "auth": {
+        "testappnextaws088805ca": {}
+      },
+      "api": {
+        "testappnextaws": {}
+      }
+    }
+  }
+}

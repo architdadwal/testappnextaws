@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "testappnextaws",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authtestappnextaws088805ca",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
